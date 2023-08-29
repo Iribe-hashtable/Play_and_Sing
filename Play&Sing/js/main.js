@@ -33,4 +33,4 @@ document.addEventListener("DOMContentLoaded", function () {
       el: ".swiper-pagination", 
     },
   });
-});
+});d

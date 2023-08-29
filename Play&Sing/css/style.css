@@ -1,9 +1,5 @@
-/* DEFINIMOS TEMPORALEMNTE PALETA DE COLORES, QUITAR ESTA SECCION AL FINAL */
 #PALETA_DE_COLORES {
-  color: #34495e #3498db #5fbaa7 #f5f7fa #ffffff;
   color: #328d26  #009900 #00cc00 ;
-
-
 }
 
 * {
@@ -164,7 +160,7 @@ footer {
 }
 /* Estilos para la galería de imágenes */
 .swiper-container {
-  width: 65%;
+  width: 55%;
   margin: 0 auto;
   padding: 15px;
 }
@@ -197,7 +193,7 @@ body {
 }
 
 .list-item img {
-  max-width: 30%;
+  max-width: 90%;
   height: auto;
 }
 
