@@ -245,3 +245,38 @@ body {
   font-size: 16px;
   color: #333;
 }
+footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  background: var(#328d26);
+  color: var(#328d26);
+  text-align: center;
+  padding: 6rem 3rem;
+}
+
+.contacto-container {
+  width: 600px;
+  max-width: 100%;
+}
+
+.contacto-container h2 {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  text-transform: uppercase;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+input,
+textarea {
+  margin-bottom: 1rem;
+  padding: 8px;
+  border: 1px solid var(#328d26);
+  border-radius: 3px;
+}
